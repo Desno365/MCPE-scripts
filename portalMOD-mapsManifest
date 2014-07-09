@@ -1,0 +1,3 @@
+var divider3Image = new android.widget.ImageView(currentActivity); 			 
+ 				divider3Image.setImageBitmap(g[3]);
+				layoutCustomMaps.addView(divider3Image);
