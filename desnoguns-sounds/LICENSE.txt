@@ -1,0 +1,7 @@
+LICENSE:
+
+- Sounds of the weapons in this folder are copyright of Flan, and licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Link here http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+
+
+- The parachute sound is copyright of Benboncan (https://www.freesound.org/people/Benboncan/) and is licensed under the Creative Commons Attribution 3.0 Unported License. Link here http://creativecommons.org/licenses/by/3.0/
